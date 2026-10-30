@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin_s\\Documents\\GitHub\\DGD721\\Week05\\Week05.csproj",
+      "projectUniqueName": "C:\\Users\\admin_s\\Desktop\\Week05\\Week05.csproj",
       "projectName": "Week05",
-      "projectPath": "C:\\Users\\admin_s\\Documents\\GitHub\\DGD721\\Week05\\Week05.csproj",
+      "projectPath": "C:\\Users\\admin_s\\Desktop\\Week05\\Week05.csproj",
       "packagesPath": "C:\\Users\\admin_s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin_s\\Documents\\GitHub\\DGD721\\Week05\\obj\\",
+      "outputPath": "C:\\Users\\admin_s\\Desktop\\Week05\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
